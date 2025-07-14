@@ -1,5 +1,5 @@
 # Import necessary modules
-import time  # For sleep functionality
+import time # For sleep functionality
 import random  # For simulating sensor readings
 
 # Constants for motor control
